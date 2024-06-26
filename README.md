@@ -43,10 +43,10 @@ This project aims to identify and analyze the factors influencing the likelihood
 
 ## Images
 ### Image 1: Dataset Overview
-![Dataset Overview](../images/SubcategoryStats.PNG)
+![Dataset Overview](./images/SubcategoryStats.PNG)
 
 ### Image 2: Project Guidelines
-![Project Guidelines](../images/SubcategoryStats.PNG)
+![Project Guidelines](./images/SubcategoryStats.PNG)
 
 
 
