@@ -17,6 +17,7 @@ This repository contains a project aimed at identifying and analyzing the factor
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
+- [Full Document](#full-document)
 
 ## Project Description
 This project investigates the factors influencing NFL players' likelihood of receiving a second contract with the same team. By focusing on the 2016 to 2019 draft classes, we analyze attributes such as draft positions, player performance metrics, positional value, initial contract length, performance statistics, injury history, and team dynamics.
@@ -88,7 +89,7 @@ nfl-draft-analysis/
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/maslla100/NFL-Draft-Trends-
+    git clone https://github.com/yourusername/nfl-draft-analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -119,3 +120,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License.
+
+## Full Document
+For more detailed information, please refer to the full document: [Analysis of NFL Draft Trends and Contracts Over the Last Four Years](Analysis%20of%20NFL%20Draft%20Trends%20and%20Contracts%20Over%20the%20Last%20Four%20Years.docx)
