@@ -122,4 +122,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ## Full Document Analysis of NFL Draft Trends and Contracts Over the Last Four Years
-For more detailed information, please refer to the full document: [Analysis of NFL Draft Trends and Contracts Over the Last Four Years](Analysis%20of%20NFL%20Draft%20Trends%20and%20Contracts%20Over%20the%20Last%20Four%20Years.docx)
+For more detailed information, please refer to the full document: [Analysis of NFL Draft Trends and Contracts Over the Last Four Years](/Analysis%20of%20NFL%20Draft%20Trends%20and%20Contracts%20Over%20the%20Last%20Four%20Years.docx)
