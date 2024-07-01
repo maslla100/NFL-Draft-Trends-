@@ -123,3 +123,22 @@ This project is licensed under the MIT License.
 
 ## Full Document Analysis of NFL Draft Trends and Contracts Over the Last Four Years
 For more detailed information, please refer to the full document: [Analysis of NFL Draft Trends and Contracts Over the Last Four Years](/Analysis%20of%20NFL%20Draft%20Trends%20and%20Contracts%20Over%20the%20Last%20Four%20Years.docx)
+
+##Acknowledgements
+    
+    Xpert Learning Assistant was used to answer detailed questions, and assist in debugging.For more information about the Xpert Learning Assistant, visit [EdX Xpert Learning Assistant](https://www.edx.org/). 
+
+## References
+
+1. Python min() and max() Functions. (n.d.). Real Python. Retrieved from https://realpython.com/python-min-and-max/
+2. scipy.stats.linregress. (n.d.). SciPy Documentation. Retrieved from https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+3. pandas.plotting.scatter_matrix. (n.d.). pandas Documentation. Retrieved from https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html
+4. pandas.DataFrame.plot. (n.d.). pandas Documentation. Retrieved from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+5. Introduction to hvPlot. (n.d.). hvPlot Documentation. Retrieved from https://hvplot.holoviz.org/user_guide/Introduction.html
+6. matplotlib User Guide. (n.d.). Matplotlib Documentation. Retrieved from https://matplotlib.org/stable/users/index.html
+7. Kaggle Dataset: NFL Contract and Draft Data:
+    https://www.kaggle.com/datasets/nicholasliusontag/nfl-contract-and-draft-data
+8. StatMuse: NFL Teams Winning Percentage the Last 5 Years:
+    https://www.statmuse.com/nfl/ask/nfl-teams-winning-percentage-the-last-5-years
+NFL Data API:
+    PyPI: https://pypi.org/project/nfl-data-py/
